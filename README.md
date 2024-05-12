@@ -17,4 +17,3 @@
 ![t7](https://github.com/JanitaArisna/msib/assets/121175050/ed56406b-1b3f-4e2b-8f29-506d81d9fa94)
 
 #Button 3 - About
-![t6](https://github.com/JanitaArisna/msib/assets/121175050/53b0d965-1e14-43f8-ace4-94f1a2fecc8c)
